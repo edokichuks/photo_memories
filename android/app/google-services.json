@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503172661928",
+    "project_id": "photos-rg-app",
+    "storage_bucket": "photos-rg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503172661928:android:23ecdfad651fe222cbb89d",
+        "android_client_info": {
+          "package_name": "com.example.photo_memories"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAD49YNieHD-WlMpgkZz6FHx0e4948bcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503172661928:android:23f616a335f4fde2cbb89d",
+        "android_client_info": {
+          "package_name": "com.example.wckd_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAD49YNieHD-WlMpgkZz6FHx0e4948bcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
